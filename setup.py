@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 import sys
 
-VERSION = '0.1'
+VERSION = '1.0'
 DESCRIPTION = 'Python import/export data in tecplot format'
 
 with open('README.md') as f:
